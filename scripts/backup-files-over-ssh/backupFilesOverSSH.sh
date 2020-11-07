@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 ##########################################################################
 # Shellscript:  Backup files to a remote server over SSH
 # Author     :  Paco Orozco <pakus@pakusland.net>

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 ##########################################################################
 # Shellscript:  Backup DBs to remote host via SSH
 # Author     :  Paco Orozco <pakus@pakusland.net>
